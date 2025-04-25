@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "557499886499",
+    "project_id": "bmi-app-ab16e",
+    "storage_bucket": "bmi-app-ab16e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557499886499:android:616bbdf281ca25aaea4816",
+        "android_client_info": {
+          "package_name": "com.example.bmi_calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE9YzvXRThMcpriw0HbISO0yCsIqGQO9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557499886499:android:e56db8d5036de930ea4816",
+        "android_client_info": {
+          "package_name": "com.exemple.bmi_calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE9YzvXRThMcpriw0HbISO0yCsIqGQO9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
