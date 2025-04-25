@@ -1,16 +1,33 @@
-# bmi_calculator
+# 📱 BMI Calculator – Flutter App
 
-A new Flutter project.
+This is a BMI (Body Mass Index) Calculator App built using Flutter and integrated with Firebase. It allows users to calculate their BMI, save their BMI history, and switch between multiple languages (English, Arabic, French, Spanish).
 
-## Getting Started
+## 🔧 Features
 
-This project is a starting point for a Flutter application.
+✅ BMI Calculation based on weight and height
 
-A few resources to get you started if this is your first Flutter project:
+🔐 Firebase Authentication (Email & Password)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+☁️ Firestore Integration for saving BMI history
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🌐 Multilingual Support – English, Arabic, French, Spanish
+
+🧭 Smooth navigation and responsive UI
+
+💾 Shared Preferences for storing selected language
+
+## 🧪 Technologies Used
+
+Flutter
+
+Dart
+
+Firebase Auth
+
+Cloud Firestore
+
+Shared Preferences
+
+Flutter Localization (intl + .arb)
+
+
